@@ -39,7 +39,7 @@ The application does the following:
 
 - When I decide to finish building my team, then I exit the application, and the HTML is generated.
 
-![Image](./Assets/screenshot.jpg)
+![Image](./Assets/Screenshot.jpg)
 ![Image](./Assets/Screenshot1.jpg)
 ![Image](./Assets/Screenshot2.jpg)
 
