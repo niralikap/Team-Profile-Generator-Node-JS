@@ -15,9 +15,9 @@ In this assignment, I have used 'Node JS' to build a command line application th
 
 The application should use 'Jest' for running the unit tests and the 'Inquirer' package for collecting input from the user. The application will be invoked by using the following command:
 
-```bash
+bash
 node index.js
-```
+
 
 The application does the following:
 
