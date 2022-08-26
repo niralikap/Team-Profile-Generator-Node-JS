@@ -1,4 +1,4 @@
-# Team-Profile-Generator-using-Node-JS
+# Team-Profile-Generator-Node-JS
 
 # 10 Object-Oriented Programming: Team Profile Generator
 
