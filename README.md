@@ -37,7 +37,9 @@ The application does the following:
 
 - When I select the intern option, then I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu.
 
-- When I decide to finish building my team, then I exit the application, and the HTML is generated.
+- When I decide to finish building my team, then I exit the application, and the HTML is generated in the browser.
+
+- When I run the test using npm test, all the test pass successfully.
 
 ![Image](./Assets/Screenshot.jpg)
 ![Image](./Assets/Screenshot1.jpg)
